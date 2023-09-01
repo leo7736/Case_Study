@@ -39,4 +39,4 @@ This case study aims to provide insights into the user acquisition journey for I
 
 **[Full Case Study](https://github.com/leo7736/Case_Study/blob/main/Case_Study_Leo_Rajan.pdf)**
 
-For any inquiries or clarifications, please contact [Your Name] at [Your Email Address].
+
