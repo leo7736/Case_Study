@@ -8,8 +8,8 @@ This business analyst case study leverages personal experience as an IndusInd Ba
 ### 1. User Journey Mapping
 
 #### Map Your Journey as an IndusInd Bank User
-- Analyze your personal experience as an IndusInd Bank user.
-- Document your interactions with the bank's website during the credit card application process.
+- Analyze my personal experience as an IndusInd Bank user.
+- Document the interactions with the bank's website during the credit card application process.
 - Evaluate the ease of use, responsiveness, and clarity of information.
 
 |User Journey Map|
