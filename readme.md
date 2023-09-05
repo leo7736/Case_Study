@@ -27,8 +27,8 @@ This business analyst case study leverages personal experience as an IndusInd Ba
 
 ## Structure of the Repository
 - `README.md`: This file provides an overview of the case study.
-- `User_Journey_Mapping.pdf`: Documenting your personal experience and interactions with IndusInd Bank.
-- `User_Experience_Analysis.pdf`: Analyzing the user experience, identifying improvement areas, and proposing recommendations.
+- `Whiteboard.jpg`: Documenting my personal experience and interactions with IndusInd Bank.
+- `Case_Study_Analysis.pdf`: Analyzing the user experience, identifying improvement areas, and proposing recommendations.
 
 ## Conclusion
 This case study aims to provide insights into the user acquisition journey for IndusInd Bank credit cards and offer recommendations for enhancing the process. Please refer to the provided documents for detailed analysis and recommendations.
