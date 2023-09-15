@@ -41,8 +41,8 @@ This case study aims to provide insights into the user acquisition journey for I
 
 |Case Study|
 |:-:|
-|![First Image](https://github.com/leo7736/Case_Study/blob/main/case_study.png)|
+|![First Image](https://github.com/leo7736/Case_Study/blob/main/cs2.png)|
 
-**[Full Case Study](https://github.com/leo7736/Case_Study/blob/main/Case_Study_Leo_Rajan.pdf)**
+**[Full Case Study](https://github.com/leo7736/Case_Study/blob/main/cs1.pdf)**
 
 
