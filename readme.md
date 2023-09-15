@@ -5,7 +5,13 @@ This business analyst case study leverages personal experience as an IndusInd Ba
 
 ## Path
 
-### 1. User Journey Mapping
+### 1. Product UI/UX
+
+|UI/UX|
+|:-:|
+|![First Image](https://github.com/leo7736/Case_Study/blob/main/Product%20Link.jpg)|
+
+### 2. User Journey Mapping
 
 #### Map Your Journey as an IndusInd Bank User
 - Analyze my personal experience as an IndusInd Bank user.
